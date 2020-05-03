@@ -9,7 +9,7 @@ The project utilize Navigation, Perception, Behavior Trees and the Environment Q
 
 ##Image
 
-![Behavior Tree](Behavior Tree.jpg)
+![Behavior Tree](Behavior_Tree.jpg)
 
 ![Debug](SS_Debug.jpg)
 
